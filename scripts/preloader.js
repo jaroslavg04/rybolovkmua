@@ -1,0 +1,1 @@
+jQuery(document).ready(function(n){n(window).on("load",function(){var d=n("#preloader");d.find(".spinner").fadeOut(),d.delay(250).fadeOut("slow")})});
